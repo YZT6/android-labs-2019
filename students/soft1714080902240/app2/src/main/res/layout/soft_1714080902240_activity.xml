@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Soft1714080902240Activity">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/index"
+        tools:layout_editor_absoluteX="16dp"
+        >
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="开始阅读"
+            tools:layout_editor_absoluteX="161dp"
+            android:layout_marginTop="0dp"
+            tools:layout_editor_absoluteY="444dp" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
+
+    <!--        <Button
+                android:text="加载英语文章"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:id="@+id/button" />-->
+
+    <!--    <edu.hzuapps.androidlabs.soft1714080902240.MyImageView
+            android:id="@+id/image_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />-->
